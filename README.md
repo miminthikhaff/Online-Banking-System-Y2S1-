@@ -1,2 +1,2 @@
 # Online-Banking-System-Y2S1-
-Technologies:-Java, JavaScript, Servlet API, JSP, JDBC API, Design Patterns, TSQL, Bootstrap, SQL,CSS
+Technologies:-Java, JavaScript, SQL, CSS, Servlet API, JSP, JDBC API, Design Patterns, Bootstrap
